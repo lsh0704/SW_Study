@@ -1,0 +1,10 @@
+TextWindow.BackgroundColor="green"
+TextWindow.foregroundcolor="black"
+TextWindow.WriteLine("안녕하세요.")
+TextWindow.backgroundcolor="yellow"
+TextWindow.WriteLine("임소희입니다.")
+TextWindow.BackgroundColor="red"
+TextWindow.foregroundcolor="white"
+TextWindow.Write("저는 컴퓨터과학부")
+TextWindow.backgroundcolor="blue"
+TextWindow.Write(" 1515655  입니다.")
